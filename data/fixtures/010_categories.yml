@@ -9,9 +9,4 @@ Person:
     first: Israel
     last: Lawson
     nickname: Isi
-    image: isi.jpg
-  missy:
-    first: Melissa
-    last: Lawson
-    nickname: Missy
-    image: missy.jpg
+    image_name: 'isi.jpg'
