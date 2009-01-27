@@ -1,0 +1,16 @@
+# config/schema.yml
+propel:
+  tln_category:
+    _attributes:  { phpName: Category }
+    id:           ~
+    name:         { type: varchar(255), required: true, index: unique }
+ 
+  tln_person:
+    _attributes:  { phpName: Person }
+    id:           ~
+    first:        { type: varchar(255) }
+    last:         { type: varchar(255) }
+    nickname:     { type: varchar(255) }
+    image_name:   { type: varchar(255) }
+    created_at    ~
+    updated_at    ~
