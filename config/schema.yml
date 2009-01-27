@@ -12,5 +12,5 @@ propel:
     last:         { type: varchar(255) }
     nickname:     { type: varchar(255) }
     image_name:   { type: varchar(255) }
-    created_at    ~
-    updated_at    ~
+    created_at:   ~
+    updated_at:   ~
