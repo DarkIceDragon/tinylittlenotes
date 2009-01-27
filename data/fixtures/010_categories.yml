@@ -1,0 +1,17 @@
+# data/fixtures/010_categories.yml
+Category:
+  clothing:          { name: Clothing }
+  jewelry:           { name: Jewelry }
+  custom:            { name: Custom }
+
+Person:
+  isi:
+    first: Israel
+    last: Lawson
+    nickname: Isi
+    image: isi.jpg
+  missy:
+    first: Melissa
+    last: Lawson
+    nickname: Missy
+    image: missy.jpg
