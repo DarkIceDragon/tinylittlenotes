@@ -13,9 +13,9 @@ all:
     class:        sfPropelDatabase
     param:
       classname:  PropelPDO
-      dsn:        mysql:dbname=tinylittlenotes;host=localhost
-      username:   root
-      password:   
+      dsn:        mysql:dbname=lunitius_tinylittlenotes;host=localhost
+      username:   lunitius_tln
+      password:   Oicu812!
       encoding:   utf8
       persistent: true
       pooling:    true
