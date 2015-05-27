@@ -9,4 +9,4 @@ If (one of) the author(s) is reading this, I have transferred your project to Gi
 
 Please contact me if do not want your project hosted on this account, I shall promptly delete the repository, without question, provided you are (one of) the original author(s).
 
-ORIGINAL AUTHOR(S) - isi.lawson (As per info in master branch)
+ORIGINAL AUTHOR(S) - isi.lawson (As per info in commits section)
